@@ -1,0 +1,257 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Clerisson Nascimento
+    tagline: Professor, pesquisador e desenvolvedor
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: clerisson.mn@gmail.com
+    phone: +55 91 98236-6631
+    website: lattes.cnpq.br/7908805555809656 #do not add http://
+    linkedin: clerisson
+    github: clerissonmn
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Português
+        level: Nativo
+
+      - idiom: Inglês
+        level: Profissional
+
+      - idiom: Spanish
+        level: Básico
+
+    interests:
+      - item: Ciências de dados
+        link:
+
+      - item: Docência
+        link:
+
+      - item: Pesquisa
+        link:
+
+career-profile:
+    title: RESUMO
+    summary: |
+      Graduação em Física Bacharelado (2010), Mestrado em Física (2012) e Doutorado (2016) em Engenharia Elétrica pela Universidade Federal do Pará. Bolsista de Pós-doutorado Júnior do CNPq (2016-2017), professor substituto da Faculdade de Engenharia Elétrica e Biomédica (2016-2018), pesquisador do laboratório de Nanofotônica e Nanoeletrônica da UFPA (2010-2017). Experiência na área de pesquisa e desenvolvimento em física e engenharia e na área de ciências de dados. Experiência em coordenação de equipe, orientação acadêmica, conhecimento em tecnologia de gestão de informações (B.I).
+
+education:
+    - degree: Pós-doutorado em Engenharia Elétrica
+      university: Universidade Federal do Pará
+      time: 2016 - 2017
+      details:
+
+    - degree: Douturado em Engenharia Elétrica
+      university: Universidade Federal do Pará
+      time: 2012 - 2016
+      details:
+
+    - degree: Mestrado em Física
+      university: Universidade Federal do Pará
+      time: 2010 - 2012
+      details:
+
+    - degree: Bacharelado em Física
+      university: Universidade Federal do Pará
+      time: 2006 - 2010
+      details:
+
+courses:
+    - degree: Compliance (2h)
+      university: EDUCARE - Universidade  Corporativa Estácio
+      time: 2019 - 2019
+      details:
+
+    - degree: Ética e anticorrupção (2h)
+      university: EDUCARE - Universidade  Corporativa Estácio
+      time: 2019 - 2019
+      details:
+
+    - degree: Segurança na informação (2h)
+      university: EDUCARE - Universidade  Corporativa Estácio
+      time: 2019 - 2019
+      details:
+
+    - degree: Simulating Graphene-Based Photonic and Optoeletron (1h)
+      university: IEEE Educational Activities Board
+      time: 2015 - 2015
+      details:
+
+    - degree: Gestão de Recursos Humanos (20h).
+      university: SEBRAE/PA
+      time: 2008 - 2008
+
+    - degree: Gestão de Processos (20h).
+      university: SEBRAE/PA
+      time: 2008 - 2008
+
+    - degree: Gestão de Custos (20h).
+      university: SEBRAE/PA
+      time: 2008 - 2008
+
+    - degree: Gestão de Estragégia Empresarial (20h).
+      university: SEBRAE/PA
+      time: 2008 - 2008
+
+    - degree: Gestão de Finanças (20h).
+      university: SEBRAE/PA
+      time: 2008 - 2008
+
+    - degree: Gestão de Markenting (20h).
+      university: SEBRAE/PA
+      time: 2008 - 2008
+
+    - degree: História de Documentos Manuscritos (12h).
+      university: Arquivo Público do Pará, APEP, Brasil
+      time: 2007 - 2007
+
+experiences:
+    - role: Professor Universitário
+      time: 2019 - Atual
+      company: Estacio Castanhal
+      details: |
+        Professor do curso de Engenharia Civil. Principais disciplinas ministradas:
+          - Análise de Dados
+          - Física teórica e experimental I e III
+          - Análise Matemática para Engenharia II e III
+          - Cálculo Diferencial e Integral III
+          - Físico-Quimica
+
+    - role: Professor Universitário
+      time: 2016 - 2018
+      company: Universidade Federal do Pará
+      details: |
+        Professor da faculdade de Engenharia Elétrica e Biomédica. Principais disciplinas ministradas
+          - Física I
+          - Cálculo IV
+          - Materiais Elétricos
+          - Eletrônica Digital
+          - Funções Especiais para a Engenharia
+
+    - role: Pesquisador Assistente de Coordenação
+      time: 2010 - 2017
+      company: Laboratório de Nanoeletrônica e nanofotônica da UFPA
+      details: |
+        O laboratório em questão atua na pesquia em nanotecnologia aplicada na forma de desenvolvimento de dispositivos de comunicação baseados em grafeno. Durante este o período ocupou lugar de destaque na assistência da gestão do grupo de pesquisa. Dentre as atividades exercidas destacam-se:
+          - Obtenção, tratamento, interpretação e aplicação dos dados ao desenvolvimento dos dispositivos;
+          - Auxílio na coordenação e orientação de mais de 10 pesquisadores, compreendendo graduação, mestrado e doutorado (maioria);
+          - Também atuou como representante no gerenciamento dos projetos, monitorando os respectivos progressos e na prestação de contas;
+
+# projects:
+#     title: Projects
+#     intro: >
+#       # You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template... ."
+#
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template..."
+
+publications:
+    title: PRODUÇÃO TÉCNICA E CIENTÍFICA
+    intro: |
+      Abaixo algumas das publiecações mais relevantes. A lista completa pode ser encontrada no currículo lattes.
+
+    papers:
+      - title: (Revista) Extremely high Faraday and Kerr rotations and extraordinary optical transmission in four-layer dielectric-metal strips-dielectric-Bi:YIG planar structure.
+        authors: DMITRIEV, VICTOR ; SANTOS, C. M. ; NASCIMENTO, C.
+        conference: JOURNAL OF MICROWAVES, OPTOELECTRONICS AND ELECTROMAGNETIC APPLICATIONS, v. 17, p. 44-52, 2018.
+
+      - title: (Revista) Controllable frequency and polarization THz filter based on graphene fish-scale metamaterial.
+        authors: DMITRIEV, VICTOR ; NASCIMENTO, CLERISSON ; LIMA, ROBERTO ; PROSVIRNIN, SERGEY L.
+        conference: MICROWAVE AND OPTICAL TECHNOLOGY LETTERS, v. 59, p. 3115-3118, 2017.
+
+      - title: (Revista) Planar THz electromagnetic graphene pass-band filter with low polarization and angle of incidence dependencies.
+        authors: DMITRIEV, VICTOR ; MONTE DO NASCIMENTO, CLERISSON
+        conference: Applied Optics, v. 54, p. 1515, 2015.
+
+      - title: (Revista) Planar graphene multifunctional component.
+        authors: DMITRIEV, VICTOR ; NASCIMENTO, CLERISSON
+        conference: Microwave and Optical Technology Letters (Print), v. 57, p. 1755-1760, 2015.
+
+      - title: (Capítulo) Graphene-Based Plasmonic Components for THz Applications":" Planar Ring Array Devices.
+        authors: V. Dmitriev ; Clerisson Nascimento .
+        conference: Capítulo de livro em Sulaiman Wadi Harun. (Org.). Volume 8":" Technology and Innovations. 1ed.Beverly, MA":" Scrivener Publishing, 2019, v.,p. 393-407.
+
+      - title: (Capítulo) Filtro Eletromagnético Planaf em THz baseado em grafeno com pequena dependência com ângulo de polarização e ângulo de incidência incidência.
+        authors: NASCIMENTO, C. M.; Victor Dmitriev;
+        conference: Patente Nº BR102015025682
+
+      - title: (Patente) Dispositivo Multifuncional Planar Baseado em Grafeno.
+        authors: NASCIMENTO, C. M.; Victor Dmitriev;
+        conference: Patente Nº BR1020150252749
+
+      - title: (Patente) Filtro controlável de frequências e de polarização em thz baseado em grafeno com geometria de escama de peixe
+        authors: NASCIMENTO, C. M.; Victor Dmitriev; LIMA, J. R. S.
+        conference: Patente Nº BR1020160134102
+
+      - title: (Patente) Circulador Eletromagnético Controlável Baseado Em Grafeno Na Região De THz
+        authors: NASCIMENTO, C. M.; Victor Dmitriev; ORMANES, W.
+        conference: Patente Nº BR1020160134064
+
+
+skills:
+    title: Habilidades &amp; Proficiência
+
+    toolset:
+      - name: Física e Matemática
+        level: 100%
+
+      - name: Estatística
+        level: 80%
+
+      - name: Comunicativo
+        level: 85%
+
+      - name: Ético e comprometido
+        level: 100%
+
+    toolset_informatica:
+      - name: Matlab
+        level: 90%
+
+      - name: Python
+        level: 85%
+
+      - name: C
+        level: 80%
+
+      - name: Data Science
+        level: 80%
+
+      - name: SQL
+        level: 85%
+
+      - name: HTML
+        level: 50%
+
+      - name: CSS
+        level: 20%
+
+      - name: ETL
+        level: 60%
+
+
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
