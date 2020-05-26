@@ -14,9 +14,10 @@ sidebar:
     email: clerisson.mn@gmail.com
     phone: +55 91 98236-6631
     website: lattes.cnpq.br/7908805555809656 #do not add http://
+    website: notebooks.azure.com/clerissonmn #do not add http://
     linkedin: clerisson
     github: clerissonmn
-    gitlab:
+    gitlab: 
     bitbucket:
     twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -49,6 +50,11 @@ career-profile:
       Graduação em Física Bacharelado (2010), Mestrado em Física (2012) e Doutorado (2016) em Engenharia Elétrica pela Universidade Federal do Pará. Bolsista de Pós-doutorado Júnior do CNPq (2016-2017), professor substituto da Faculdade de Engenharia Elétrica e Biomédica (2016-2018), pesquisador do laboratório de Nanofotônica e Nanoeletrônica da UFPA (2010-2017). Experiência na área de pesquisa e desenvolvimento em física e engenharia e na área de ciências de dados. Experiência em coordenação de equipe, orientação acadêmica, conhecimento em tecnologia de gestão de informações (B.I).
 
 education:
+    - degree: MBA em Business Bntelligence(Inteligência de negócios)
+      university: Estácio
+      time: 2020 - atual
+      details:
+
     - degree: Pós-doutorado em Engenharia Elétrica
       university: Universidade Federal do Pará
       time: 2016 - 2017
