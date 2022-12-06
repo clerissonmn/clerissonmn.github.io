@@ -1,5 +1,7 @@
+_vendor
 _site
 .DS_Store
 *.swp
 .sass-cache
 *~
+
