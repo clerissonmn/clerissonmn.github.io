@@ -1,8 +1,7 @@
 <div class="card-group mt-2">
 
-  {%- assign blog_img   = false -%}
-  
   {% for post in site.posts %}
+    {%- assign blog_img   = post.image -%}
     {% include blog/post-card.html %}
   {% endfor %}
   
