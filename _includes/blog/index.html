@@ -1,10 +1,12 @@
 <div class="card-group mt-2">
 
+  {%- assign blog_img   = false -%}
+  
   {% for post in site.posts %}
     {% include blog/post-card.html %}
   {% endfor %}
   
 
-  {%- assign blog_img   = false -%}
+  
 
 </div>
